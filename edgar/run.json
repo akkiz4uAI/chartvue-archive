@@ -1,0 +1,135 @@
+{
+ "startedAt": "2026-09-30T23:17:46.913Z",
+ "endedAt": "2026-09-30T23:19:29.063Z",
+ "durationSeconds": 102,
+ "complete": true,
+ "universe": {
+  "kind": "archive",
+  "day": "2026-09-29",
+  "members": 503
+ },
+ "written": 503,
+ "unchanged": 0,
+ "failed": [],
+ "noCik": [],
+ "noFacts": [],
+ "shortHistory": [
+  "FDXF (2)",
+  "FERG (3)",
+  "GEHC (3)",
+  "GEV (2)",
+  "HONA (0)",
+  "KVUE (3)",
+  "Q (1)",
+  "RDDT (2)",
+  "SNDK (2)",
+  "SOLV (2)",
+  "SW (2)",
+  "TKO (3)"
+ ],
+ "facts": {
+  "total": 371966,
+  "perCompany": {
+   "median": 783,
+   "min": 20,
+   "max": 1095
+  }
+ },
+ "bytes": 3666905,
+ "metrics": {
+  "TotalRevenue": {
+   "companies": 501,
+   "earliestYear": {
+    "min": 2007,
+    "median": 2008,
+    "max": 2025
+   }
+  },
+  "NetIncome": {
+   "companies": 503,
+   "earliestYear": {
+    "min": 2007,
+    "median": 2008,
+    "max": 2025
+   }
+  },
+  "NetIncomeCommonStockholders": {
+   "companies": 503,
+   "earliestYear": {
+    "min": 2007,
+    "median": 2008,
+    "max": 2025
+   }
+  },
+  "EBIT": {
+   "companies": 420,
+   "earliestYear": {
+    "min": 2007,
+    "median": 2008,
+    "max": 2025
+   }
+  },
+  "ReconciledDepreciation": {
+   "companies": 453,
+   "earliestYear": {
+    "min": 2006,
+    "median": 2008,
+    "max": 2025
+   }
+  },
+  "StockholdersEquity": {
+   "companies": 503,
+   "earliestYear": {
+    "min": 2006,
+    "median": 2007,
+    "max": 2024
+   }
+  },
+  "TotalAssets": {
+   "companies": 503,
+   "earliestYear": {
+    "min": 2006,
+    "median": 2009,
+    "max": 2025
+   }
+  },
+  "CurrentLiabilities": {
+   "companies": 425,
+   "earliestYear": {
+    "min": 2007,
+    "median": 2009,
+    "max": 2025
+   }
+  },
+  "OperatingCashFlow": {
+   "companies": 502,
+   "earliestYear": {
+    "min": 2007,
+    "median": 2008,
+    "max": 2024
+   }
+  }
+ },
+ "tagsUsed": {
+  "RevenueFromContractWithCustomerExcludingAssessedTax": 278,
+  "NetIncomeLoss": 498,
+  "ProfitLoss": 84,
+  "OperatingIncomeLoss": 420,
+  "DepreciationDepletionAndAmortization": 365,
+  "StockholdersEquity": 496,
+  "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": 328,
+  "Assets": 503,
+  "LiabilitiesCurrent": 425,
+  "NetCashProvidedByUsedInOperatingActivities": 501,
+  "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations": 198,
+  "Revenues": 402,
+  "SalesRevenueNet": 208,
+  "NetIncomeLossAvailableToCommonStockholdersBasic": 308,
+  "DepreciationAndAmortization": 201,
+  "RevenueFromContractWithCustomerIncludingAssessedTax": 45,
+  "DepreciationAmortizationAndAccretionNet": 51,
+  "RevenuesNetOfInterestExpense": 6
+ },
+ "tagsNeverFound": [],
+ "problems": []
+}
