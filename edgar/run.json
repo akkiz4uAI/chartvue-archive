@@ -1,15 +1,15 @@
 {
- "startedAt": "2026-09-30T23:17:46.913Z",
- "endedAt": "2026-09-30T23:19:29.063Z",
- "durationSeconds": 102,
+ "startedAt": "2026-10-03T18:22:04.443Z",
+ "endedAt": "2026-10-03T18:23:50.149Z",
+ "durationSeconds": 106,
  "complete": true,
  "universe": {
   "kind": "archive",
-  "day": "2026-09-29",
+  "day": "2026-10-02",
   "members": 503
  },
- "written": 503,
- "unchanged": 0,
+ "written": 4,
+ "unchanged": 499,
  "failed": [],
  "noCik": [],
  "noFacts": [],
@@ -28,14 +28,14 @@
   "TKO (3)"
  ],
  "facts": {
-  "total": 371966,
+  "total": 371998,
   "perCompany": {
    "median": 783,
    "min": 20,
    "max": 1095
   }
  },
- "bytes": 3666905,
+ "bytes": 3667230,
  "metrics": {
   "TotalRevenue": {
    "companies": 501,
@@ -111,21 +111,21 @@
   }
  },
  "tagsUsed": {
-  "RevenueFromContractWithCustomerExcludingAssessedTax": 278,
+  "Revenues": 402,
+  "SalesRevenueNet": 208,
   "NetIncomeLoss": 498,
-  "ProfitLoss": 84,
+  "NetIncomeLossAvailableToCommonStockholdersBasic": 308,
   "OperatingIncomeLoss": 420,
   "DepreciationDepletionAndAmortization": 365,
+  "DepreciationAndAmortization": 201,
   "StockholdersEquity": 496,
   "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": 328,
   "Assets": 503,
   "LiabilitiesCurrent": 425,
   "NetCashProvidedByUsedInOperatingActivities": 501,
   "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations": 198,
-  "Revenues": 402,
-  "SalesRevenueNet": 208,
-  "NetIncomeLossAvailableToCommonStockholdersBasic": 308,
-  "DepreciationAndAmortization": 201,
+  "RevenueFromContractWithCustomerExcludingAssessedTax": 278,
+  "ProfitLoss": 84,
   "RevenueFromContractWithCustomerIncludingAssessedTax": 45,
   "DepreciationAmortizationAndAccretionNet": 51,
   "RevenuesNetOfInterestExpense": 6
