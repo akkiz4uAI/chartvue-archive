@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-16",
+  "startedAt": "2026-10-16T22:53:53.111Z",
+  "endedAt": "2026-10-16T22:56:27.323Z",
+  "durationSeconds": 154,
+  "complete": true,
+  "problems": [],
+  "datasets": {
+    "symbols": {
+      "fetched": 13308,
+      "sourceCreated": {
+        "nasdaqlisted": "1016202618:01",
+        "otherlisted": "1016202618:01"
+      },
+      "file": "symbols.json.gz",
+      "bytes": 280266
+    },
+    "universe": {
+      "fetched": 503,
+      "revision": {
+        "id": 1380159481,
+        "timestamp": "2026-10-14T03:35:16Z"
+      },
+      "file": "universe.json.gz",
+      "bytes": 41186
+    },
+    "fundamentals": {
+      "fetched": 503,
+      "expected": 503,
+      "failedCount": 0,
+      "file": "fundamentals.json.gz",
+      "bytes": 912114,
+      "failed": [],
+      "modulesMissing": [
+        "FISV (defaultKeyStatistics)",
+        "FOX (earningsTrend)"
+      ]
+    },
+    "financials": {
+      "fetched": 503,
+      "expected": 503,
+      "failedCount": 0,
+      "file": "financials.json.gz",
+      "bytes": 1810032,
+      "failed": [],
+      "typesEmptyForAll": []
+    }
+  }
+}
