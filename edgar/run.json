@@ -1,15 +1,15 @@
 {
- "startedAt": "2026-10-17T17:34:27.658Z",
- "endedAt": "2026-10-17T17:36:09.821Z",
+ "startedAt": "2026-10-24T17:40:53.380Z",
+ "endedAt": "2026-10-24T17:42:35.593Z",
  "durationSeconds": 102,
  "complete": true,
  "universe": {
   "kind": "archive",
-  "day": "2026-10-16",
+  "day": "2026-10-23",
   "members": 503
  },
- "written": 4,
- "unchanged": 499,
+ "written": 61,
+ "unchanged": 442,
  "failed": [],
  "noCik": [],
  "noFacts": [],
@@ -30,14 +30,14 @@
   "VYLR (0)"
  ],
  "facts": {
-  "total": 677657,
+  "total": 679809,
   "perCompany": {
-   "median": 1441,
+   "median": 1446,
    "min": 0,
-   "max": 1876
+   "max": 1893
   }
  },
- "bytes": 6568777,
+ "bytes": 6590399,
  "metrics": {
   "TotalRevenue": {
    "companies": 500,
@@ -206,25 +206,25 @@
   "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations": 198,
   "EarningsPerShareDiluted": 494,
   "WeightedAverageNumberOfDilutedSharesOutstanding": 494,
-  "dei:EntityCommonStockSharesOutstanding": 472,
+  "dei:EntityCommonStockSharesOutstanding": 474,
   "LongTermDebt": 427,
   "LongTermDebtNoncurrent": 277,
   "OperatingLeaseLiability": 491,
-  "ShortTermBorrowings": 243,
+  "ShortTermBorrowings": 245,
   "CashAndCashEquivalentsAtCarryingValue": 487,
   "PaymentsToAcquireProductiveAssets": 136,
   "PaymentsOfDividendsCommonStock": 284,
-  "SalesRevenueNet": 207,
-  "NetIncomeLossAvailableToCommonStockholdersBasic": 306,
-  "PaymentsToAcquirePropertyPlantAndEquipment": 395,
-  "PaymentsOfDividends": 210,
   "Revenues": 400,
+  "SalesRevenueNet": 209,
+  "NetIncomeLossAvailableToCommonStockholdersBasic": 306,
   "DepreciationAndAmortization": 200,
   "CommonStockSharesOutstanding": 397,
   "FinanceLeaseLiability": 262,
-  "CommercialPaper": 132,
+  "CommercialPaper": 133,
   "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents": 155,
+  "PaymentsToAcquirePropertyPlantAndEquipment": 395,
   "LongTermDebtAndCapitalLeaseObligations": 156,
+  "PaymentsOfDividends": 210,
   "DebtInstrumentCarryingAmount": 168,
   "OtherShortTermBorrowings": 36,
   "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities": 81,
