@@ -1,15 +1,15 @@
 {
- "startedAt": "2026-10-24T17:40:53.380Z",
- "endedAt": "2026-10-24T17:42:35.593Z",
- "durationSeconds": 102,
+ "startedAt": "2026-10-31T18:53:08.094Z",
+ "endedAt": "2026-10-31T18:54:50.729Z",
+ "durationSeconds": 103,
  "complete": true,
  "universe": {
   "kind": "archive",
-  "day": "2026-10-23",
+  "day": "2026-10-30",
   "members": 503
  },
- "written": 61,
- "unchanged": 442,
+ "written": 154,
+ "unchanged": 349,
  "failed": [],
  "noCik": [],
  "noFacts": [],
@@ -30,14 +30,14 @@
   "VYLR (0)"
  ],
  "facts": {
-  "total": 679809,
+  "total": 682865,
   "perCompany": {
-   "median": 1446,
+   "median": 1447,
    "min": 0,
    "max": 1893
   }
  },
- "bytes": 6590399,
+ "bytes": 6622349,
  "metrics": {
   "TotalRevenue": {
    "companies": 500,
@@ -104,27 +104,27 @@
    }
   },
   "OperatingCashFlow": {
-   "companies": 501,
+   "companies": 502,
    "earliestYear": {
     "min": 2007,
     "median": 2008,
-    "max": 2024
+    "max": 2025
    }
   },
   "DilutedEPS": {
-   "companies": 494,
+   "companies": 495,
    "earliestYear": {
     "min": 2007,
     "median": 2008,
-    "max": 2024
+    "max": 2025
    }
   },
   "DilutedAverageShares": {
-   "companies": 494,
+   "companies": 495,
    "earliestYear": {
     "min": 2007,
     "median": 2008,
-    "max": 2024
+    "max": 2025
    }
   },
   "OrdinarySharesNumber": {
@@ -136,7 +136,7 @@
    }
   },
   "LongTermDebt": {
-   "companies": 475,
+   "companies": 477,
    "earliestYear": {
     "min": 2004,
     "median": 2009,
@@ -160,7 +160,7 @@
    }
   },
   "ShortTermBorrowings": {
-   "companies": 309,
+   "companies": 310,
    "earliestYear": {
     "min": 2007,
     "median": 2011,
@@ -176,11 +176,11 @@
    }
   },
   "CapitalExpenditure": {
-   "companies": 473,
+   "companies": 474,
    "earliestYear": {
     "min": 2006,
     "median": 2008,
-    "max": 2024
+    "max": 2025
    }
   },
   "CashDividendsPaid": {
@@ -202,36 +202,36 @@
   "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": 326,
   "Assets": 502,
   "LiabilitiesCurrent": 424,
-  "NetCashProvidedByUsedInOperatingActivities": 500,
-  "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations": 198,
-  "EarningsPerShareDiluted": 494,
-  "WeightedAverageNumberOfDilutedSharesOutstanding": 494,
+  "NetCashProvidedByUsedInOperatingActivities": 501,
+  "NetCashProvidedByUsedInOperatingActivitiesContinuingOperations": 199,
+  "EarningsPerShareDiluted": 495,
+  "WeightedAverageNumberOfDilutedSharesOutstanding": 495,
   "dei:EntityCommonStockSharesOutstanding": 474,
-  "LongTermDebt": 427,
-  "LongTermDebtNoncurrent": 277,
+  "LongTermDebt": 428,
+  "LongTermDebtNoncurrent": 278,
   "OperatingLeaseLiability": 491,
-  "ShortTermBorrowings": 245,
+  "ShortTermBorrowings": 246,
   "CashAndCashEquivalentsAtCarryingValue": 487,
-  "PaymentsToAcquireProductiveAssets": 136,
+  "PaymentsToAcquireProductiveAssets": 137,
   "PaymentsOfDividendsCommonStock": 284,
-  "Revenues": 400,
   "SalesRevenueNet": 209,
   "NetIncomeLossAvailableToCommonStockholdersBasic": 306,
-  "DepreciationAndAmortization": 200,
-  "CommonStockSharesOutstanding": 397,
+  "PaymentsToAcquirePropertyPlantAndEquipment": 396,
+  "PaymentsOfDividends": 210,
+  "Revenues": 400,
+  "LongTermDebtAndCapitalLeaseObligations": 156,
   "FinanceLeaseLiability": 262,
+  "DepreciationAndAmortization": 200,
+  "CommonStockSharesOutstanding": 398,
   "CommercialPaper": 133,
   "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents": 155,
-  "PaymentsToAcquirePropertyPlantAndEquipment": 395,
-  "LongTermDebtAndCapitalLeaseObligations": 156,
-  "PaymentsOfDividends": 210,
   "DebtInstrumentCarryingAmount": 168,
   "OtherShortTermBorrowings": 36,
-  "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities": 81,
+  "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities": 82,
   "RevenueFromContractWithCustomerIncludingAssessedTax": 45,
+  "DepreciationAmortizationAndAccretionNet": 51,
   "EarningsPerShareBasicAndDiluted": 61,
   "WeightedAverageNumberOfShareOutstandingBasicAndDiluted": 42,
-  "DepreciationAmortizationAndAccretionNet": 51,
   "RevenuesNetOfInterestExpense": 6,
   "PaymentsForCapitalImprovements": 26
  },
