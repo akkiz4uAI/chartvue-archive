@@ -1,15 +1,15 @@
 {
- "startedAt": "2026-11-14T20:11:39.613Z",
- "endedAt": "2026-11-14T20:13:22.076Z",
- "durationSeconds": 102,
+ "startedAt": "2026-11-21T21:15:25.869Z",
+ "endedAt": "2026-11-21T21:17:12.578Z",
+ "durationSeconds": 107,
  "complete": true,
  "universe": {
   "kind": "archive",
-  "day": "2026-11-13",
+  "day": "2026-11-20",
   "members": 503
  },
- "written": 22,
- "unchanged": 481,
+ "written": 11,
+ "unchanged": 492,
  "failed": [],
  "noCik": [],
  "noFacts": [],
@@ -29,14 +29,14 @@
   "VYLR (0)"
  ],
  "facts": {
-  "total": 686566,
+  "total": 686862,
   "perCompany": {
-   "median": 1454,
+   "median": 1455,
    "min": 39,
    "max": 1893
   }
  },
- "bytes": 6659631,
+ "bytes": 6662523,
  "metrics": {
   "TotalRevenue": {
    "companies": 501,
@@ -221,9 +221,9 @@
   "RevenueFromContractWithCustomerExcludingAssessedTax": 278,
   "ProfitLoss": 84,
   "ShortTermBorrowings": 247,
+  "PaymentsOfDividends": 209,
   "PaymentsToAcquireProductiveAssets": 136,
   "LongTermDebtAndCapitalLeaseObligations": 156,
-  "PaymentsOfDividends": 209,
   "DebtInstrumentCarryingAmount": 168,
   "OtherShortTermBorrowings": 36,
   "LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities": 81,
